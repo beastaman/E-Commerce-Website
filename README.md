@@ -4,10 +4,10 @@
 🌟 In this  tutorial, you'll learn how to create a fully responsive eCommerce website using HTML, CSS, and JavaScript. Learn how to build an attractive and user-friendly online store from scratch. Perfect for web developers and beginners alike. Don't miss out on this comprehensive guide to creating an impressive eCommerce website.
 
 Demo:
-https://bit.ly/41Id9kc
+https://bit.ly/3YZt1yQ
 
 Source Code:
-https://bit.ly/453Tgqy
+https://bit.ly/3r0fJWr
 
 
 =================================
@@ -23,6 +23,7 @@ Follow the link to check it out: https://www.patreon.com/WebFolks
 
 👥 You can also follow me on social media to stay connected and get updates:
 GitHub: https://github.com/beastaman
+
 Facebook: https://www.facebook.com/mohammedaman.nawaz.77
 
 =================================
